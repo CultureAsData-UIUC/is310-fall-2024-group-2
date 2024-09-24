@@ -1,0 +1,58 @@
+Critical Cultural Data Explorations Assignments
+
+Part 1
+Source 1: https://docs.google.com/spreadsheets/d/1am1vKU3MR1209AanJVqySFtRYe3IiB1k/edit?gid=479202673#gid=479202673 
+
+Source 2:
+https://www.library.upenn.edu/collections/notable/banned-books-collection (where it was found) 
+https://franklin.library.upenn.edu/catalog?utf8=%E2%9C%93&f%5Bauthor_creator_f%5D%5B%5D=Banned+Books+Collection+%28University+of+Pennsylvania%29&per_page=100&sort=author_creator_nssort+asc&search_field=keyword&q= (the actual database) 
+
+https://www.ala.org/bbooks/frequentlychallengedbooks/decade1999 (Other list from 1990s)
+
+
+1. How do these datasets differ in how they represent cultural objects or practices?
+
+While both of these datasets list banned books, there are a few differences. For starters, the modern dataset is stored in a csv file which is the standard type used for data projects. The second dataset is from a UPENN Library, thus, it is a bit more readable and clean compared to the csv. An interesting distinction between the two datasets is the csv file includes the state, school district, city, county, and in some cases, school name, this adds a great deal of context to the overall social state of an area of the U.S. Oddly  enough, the csv dataset doesn’t include the genre of book, year published, or the amount of pages. Each book in the UPENN database clearly lays out this information and the location of where the book was published. Overall, the csv dataset appears a lot more as a passion project as we can see the date the data was entered and even updated. 
+
+
+2. What kind of metadata or context accompanies the data?
+
+The title of the csv file is “2023 CENSORSHIP ATTACKS: Tracking Book Challenges and Bans in America. We attempted to locate the exact person or group that created this dataset but it seems to be anonymous. With the nature of the project, it appears that the dataset was established to analyze what kind of books are being banned in schools. This is a highly controversial issue, especially in states like Florida. The greater argument that emerges is what constitutes a book to be banned and how its banning reflects a nation’s political and societal standards. 
+
+
+3. Does the dataset reflect any power structures or biases? 
+
+In regards to the datasets, there could be the bias of selection. The database is based on banned books from the 1940s and 1950s with the specific focus on explicit material. The main power structure is the government and other entities that banned these books while there is a lack of power from the authors of these books, the people who want to read them, and the libraries that hold them. 
+
+
+4. Are there any notable gaps in the data? 
+
+There are very noticeable differences between the two datasets. As stated, the newer dataset lacks a lot of basic information, like the year the book was published, the genre, or the summary. What this dataset does have is information focused on the status of the book throughout the process of being banned. With the other dataset, although it is better organized there still is some data missing, like the summary of the book, the year it was banned, and the specific reason for the ban. This database has more of a focus on the book itself rather than the process of the book being banned. 
+
+
+Part 2
+
+**Questions for AI Reflection**
+
+1. How does the AI describe the cultural object versus the dataset?
+
+Are there differences in how the AI represents the cultural artifact when describing it as a digital object compared to the dataset? What nuances or context is lost in the dataset?
+Due to the AI not being able to read the dataset, it instead created its insight based on my general description of the dataset. With that alone, there was a significant lack of cultural artifacts. It lost the context of why the books were banned and suggested that I find more information through the use of the search bar. The answer that ChatGPT provided was based purely on assumption and held no real value because of that. 
+
+
+2. What does the AI’s output reveal about the dataset’s embedded power structures?
+
+Does the AI’s language reflect any inherent biases or reinforce specific power dynamics? How does the AI’s interpretation of the dataset compare to the object’s original context?
+As stated before, the answer is based on assumptions. What was said by ChatGPT was that there could be a power imbalance between the government and other entities like religious figures, school boards, and societal norms of power banning these books. When asking about the bias that might be in the dataset, it gave an error and was unable to answer the question. 
+
+
+3. What is potentially missing in the AI-generated descriptions?
+
+Consider whether the AI recognizes or highlights any missing information. Does it attempt to fill in these gaps, and if so, how accurate or reflective are these attempts of the original cultural object or practice?
+There is no real way of knowing because it is unreadable to the AI. 
+
+
+4. Does the AI challenge or reinforce existing narratives?
+
+Reflect on whether the AI critiques or reinforces dominant narratives about the cultural object or practice. Does it repeat common assumptions, or does it present new insights that challenge the status quo?
+ChatGPT explained that the dataset was a good way of showing the struggle between open access and censorship. Although it does not repeat any common assumptions, there is also no real opinion on this matter due to not being able to read the databases. 
