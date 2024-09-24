@@ -12,4 +12,4 @@ _Please note this list of members is tentative and subject to change as students
 - Ryan P.
 - Rebeca R.
 - Avery W.
-
+- Henry R.
