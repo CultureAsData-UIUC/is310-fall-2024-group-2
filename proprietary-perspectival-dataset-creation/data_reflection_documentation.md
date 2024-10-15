@@ -1,3 +1,7 @@
+
+*Dataset Link**
+https://docs.google.com/spreadsheets/d/1U3MMcIuIq3-lxbQlNQuBbpJ4PaQVlDbapJvDmTJMeJ8/edit?usp=sharing 
+
 **Documenting The Data:**
 The dataset is structured with 6 columns representing these 6 variables:
 **Username(s):** The username(s) of the people who made this instagram post. The usernames are not anonymized, as we received permission from every user when entering this data. The data in this column is stored as a string.
