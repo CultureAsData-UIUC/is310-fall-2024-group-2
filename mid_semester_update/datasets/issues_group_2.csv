@@ -1,0 +1,39 @@
+html_url,issue_status_on_project_board,title,created_at,content.body,user.login,state,body,updated_at,closed_at,assignee,assignees,labels,milestone,draft,comments,state_reason,closed_by.login,reactions.total_count,pull_request.url,assignees_logins,issue_duration,issue_associated_with_pull_request
+,In Progress,weekly project manager template --Ryan,2024-10-22 20:12:32+00:00,,ryanpearlman1,,,,,,,,,,,,,,,,,False
+,In Progress,Add archives data to main dataset,2024-10-22 20:12:45+00:00,,ryanpearlman1,,,,,,,,,,,,,,,,,False
+,In Progress,merge all 3 PEN America datasets,2024-10-22 20:13:12+00:00,,ryanpearlman1,,,,,,,,,,,,,,,,,False
+,Done,get access to in-progress PEN America dataset,2024-10-22 20:11:46+00:00,,ryanpearlman1,,,,,,,,,,,,,,,,,False
+,Done,merge first two datasets,2024-10-22 20:12:57+00:00,,ryanpearlman1,,,,,,,,,,,,,,,,,False
+https://github.com/CultureAsData-UIUC/is310-fall-2024-group-2/issues/3,,Weekly Progress -- Week 8 (PM: Ryan Pearlman),2024-10-22 20:34:04+00:00,,ryanpearlman1,closed,"This is a template for project managers to report their weekly progress. Please fill out the following sections. You can also include any additional information that you think is relevant.
+
+# Project Manager Weekly Report
+
+## Weekly Checklist
+
+- [x] Created a weekly report for the group project
+- [x] Updated the project board
+- [x] Checked in with team members
+- [x] Assigned tasks for the upcoming week
+- [x] Close issue once the weekly tasks are completed
+
+## Weekly Summary:
+*Try to answer the following questions as best you can, though you are welcome to keep it brief and in bullet points.*
+
+- What were the goals for this week for the group project?
+Our goals were to get a dataset together with all the data we've gathered.
+- What has been accomplished?
+We've managed to get a diverse dataset with many features to use for the future, by using publicly available data and data from the archives.
+- Any problems or issues that need resolving?
+N/A
+
+## Next Week's Goals:
+*Try to answer the following questions as best you can, though you are welcome to keep it brief and in bullet points.*
+
+- What are the goals for the upcoming week? Reach out to Professor Knox, and make sure we're allowed to use the in-progress PEN America dataset before putting it in our GitHub.
+- Who is assigned to what tasks?
+Aditi and Rebeca are adding archives data to the dataset. Avery and Ryan are merging the dataset and making sure there aren't any null rows. Henry and Lhaye are emailing PEN America and Professor Knox for more datasets for us to use.
+
+## Notes/Additional Information:
+*Optional additional information*
+
+- Anything else to highlight?",2024-10-29 14:36:07+00:00,2024-10-29 14:36:07+00:00,,[],[],,,0.0,completed,ryanpearlman1,0.0,,,6.0,False
