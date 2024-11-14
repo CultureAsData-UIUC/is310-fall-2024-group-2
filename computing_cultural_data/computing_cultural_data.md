@@ -1,11 +1,13 @@
-Computational methods list: 
-Lhaye: Text mining
-Rebeca: Geographical Information Systems
-Avery: social network analysis
+# Computational methods list: 
+- Lhaye: Text mining
+- Rebeca: Geographical Information Systems
+- Avery: social network analysis
 
-Cultural data list:
-Ryan: Emotional data 
-Henry: Spatial Data
+# Cultural data list:
+- Ryan: Emotional data 
+- Henry: Spatial Data
+
+
 
 # Ryan:
 ## Bibliographic information: 
@@ -13,9 +15,8 @@ Citation:
 Bosch, N., D’Mello, S. The Affective Experience of Novice Computer Programmers. Int J Artif Intell Educ 27, 181–206 (2017). https://doi.org/10.1007/s40593-015-0069-5
 This article was published in the international journal of artificial intelligence in education in 2017. It was written by University of Illinois Urbana-Champaign Information Sciences Professor Nigel Bosch and University of Colorado Boulder Computer Science Professor Sidney D’Mello. 
 
-
 ## Description of cultural data:
-	In this piece, the authors are using emotional data to determine how their research participants are feeling when doing coding tasks on a computer. They assign a common emotion to approximately every 15 seconds of time or when a student looks back on the video and marks a change in their emotional state. The researchers pile this data together into lists and mark standard deviations and means of emotions during different tasks. They also look into the transitions from one emotion to the next.
+In this piece, the authors are using emotional data to determine how their research participants are feeling when doing coding tasks on a computer. They assign a common emotion to approximately every 15 seconds of time or when a student looks back on the video and marks a change in their emotional state. The researchers pile this data together into lists and mark standard deviations and means of emotions during different tasks. They also look into the transitions from one emotion to the next.
 
 ## Summary of argument being made:
 In this paper, the authors look into how novice computer programmers feel as they learn to code, and the resulting model of affective states during the learning process. They use the emotional data to try to understand exactly how best to design a future computer science learning environment for those who haven’t learned any computer science before. For example, participants didn’t learn as much when they felt frustrated or confused. The emotional transitions and affective states can be used to have changing environments where computers detect facial features of a participant, and make it easier if they’re stuck.
@@ -36,6 +37,7 @@ I found this scholarship very interesting in terms of trying to understand emoti
 I think this scholarship might be useful for our group project because our group project is working with a lot of data that are related to one another in different ways, and we may need to step back and look at the bigger picture of why books are being banned, and if there are certain affective factors or models that could explain the banning of these books. 
 
 —--------------------------------------------------------------------------
+
 # Henry:
 
 ## Bibliography
@@ -58,7 +60,6 @@ I would categorize this as a mix of computational science and social sciences. B
 ## Application to Project
 I think the clearest application to our project is the aspect of visualization and collaboration. To me, this project is evidence for what a team of motivated individuals can accomplish. We are all human and have unique perspectives, especially when it comes to the naturally political/social nature of banned books. Moving forward, no idea and potential auditions are off the table. By encouraging individuality and collaboration, we can build a project that encapsulates a multitude of backgrounds and opinions, leading to a true digital humanities project. One that can be used to identify and track patterns in this culture dilemma that our libraries are facing.
 
-
 —---------------------------------------------------------------------------------------------
 
 # Avery:
@@ -79,7 +80,9 @@ I would categorize the techniques used in this article as a computational social
 
 ## Applications for Project:
 I believe that the clustering and creation of cliques present in this article is something that we can use for our final project. Specifically, in regards to book banning, I think it would be interesting to find cliques between the states. We can look at the types of books that a state banned, and compare. For example, if Florida banned a lot of youth LGBTQ+ books, we could compare this trend with other states, and then form groups based on which books they ban. Maybe some states target books on critical race theory. Maybe some states target books on violence and abuse. These methods could help to create a visualization in which we can group together the different states into different categories. The regression techniques in this article would also be very useful to use. It provides new ways to find predictors for a regression model, like how we can create density variables. Overall, I believe this article will be a useful tool in uncovering the trends with book banning by each state.
- —-------------------------------------------------------------------------------
+
+—-------------------------------------------------------------------------------
+
 # Lhaye:
 ## Bibliographic Information:
 Irfan R, King CK, Grages D, et al. A survey on text mining in social networks. The Knowledge Engineering Review. 2015;30(2):157-170. doi:10.1017/S0269888914000277
