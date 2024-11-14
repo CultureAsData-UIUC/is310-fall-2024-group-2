@@ -3,6 +3,7 @@ Welcome! We are group 2, and our IS310 project is dealing with historical data! 
 
 
 ## Our noteworthy files consist of:
+- computing_cultural_data: exploration via literature review of how academia explores computational and cultural data, and how it's relevant to our project.
 - critical_cultural_data_exploration: a look into some book banning datasets, and how AI perceives them. 
 - initial_proposal: our initial proposal for this project and instructor feedback.
 - mass_digitzation_and_digital_libraries: a more in-depth look at what we initially hoped to accomplish with this project.
