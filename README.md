@@ -1,25 +1,7 @@
-# is310-fall-group-2
-Welcome! We are group 2, and our IS310 project is dealing with historical data! Specifically, data relating to banned books. 
+For the 98-99 dataset, I wanted to pick at the genre data because our other datasets don't have genres. In addition, this dataset has the top 3 associated genres which will provide more data. I also chose to tally up which states have the most of one genre banned. I believe this is important to find potential patterns and trends with certain states. At the start of the project we hypothesized that Florida and Texas would have the most amount of books banned. In this short sample, the data visualization confirmed our premonition as Florida has the most banned. The majority of bannings by genre also occured in the south which represents the general theme.
 
+To get the genres for these books, we used a website that had a lot of genres for each one and entered it manually. We entered the top 3 genres (if applicable) as well as other information like the years and county. This information was obtained from the archive meetings part of our group conducted. The creation of my visualization involved melting the dataset into the categories that we were interested in, genre1, genre2, genre3, and by state. Then, I organized the genres into 1 column and set up a count for the top states in which the genres appear in. Next, I decided to get the top 15 genres to avoid cluttering the graph.
 
-## Our noteworthy files consist of:
-- computing_cultural_data: exploration via literature review of how academia explores computational and cultural data, and how it's relevant to our project.
-- critical_cultural_data_exploration: a look into some book banning datasets, and how AI perceives them. 
-- experimenting_with_datasets: our Kepler output for a heatmap visualization of banned books in America from 07/1/21 - 06/01/23, as well as the explanation of how we created it and challenges along the way.
-- initial_proposal: our initial proposal for this project and instructor feedback.
-- mass_digitzation_and_digital_libraries: a more in-depth look at what we initially hoped to accomplish with this project.
-- mid_semester_update: A snapshot of our project at the halfway point of the semester with instructor feedback.
-- proprietary_perspectival_dataset_creation: A look into Meta's requirements for using their data, and our own dataset and alaysis we compiled manually based on data from our own Instagram pages or those of others we had explicit feedback to use.
-- LICENSE.md: our creative commons license.
+One of the problems I faced was the reality of data entry. Sometimes the same words aren't spelled the same because the task is incredibly arduous. I noticed a few errors like nonfiction and non fiction. To fix this, I trimmed and converted the genres to lower case. This fixed a few of the issues but I still ran into spelling errors. I ended up fixing the errors myself because the dataset is relatively small. If the dataset was larger, this brute force way of cleaning would not be applicable. Overall, I gained a new perspective of data entry and the problems that analysts face.
 
-
-## Our group members are:
-- Aditi Dixit
-- Ryan Pearlman 
-- Henry Rotuno 
-- Avery Webster 
-- Lhaye Dimarcut 
-- Rebeca Rodriguez
-
-
-If you have any questions about our project, feel free to get in touch with us and ask questions!
+Our group has had a good division of labor and communication. Last night we all met on zoom to discuss the presentation and we are meeting today to finialize our project. This also included troubleshooting through errors together. We have all been coding our own parts and worked on various data visualizations. During class last Tuesday, Ryan, Avery, and I, worked on troubleshooting an altair visualization for our 22-23 dataset while our other members worked on getting the genre tool to work. During today's meeting, we'll divide who is presenting what and work on combining everything into hopefully one juptyer notebook.
