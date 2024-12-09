@@ -14,8 +14,8 @@ def get_genre(book_title, book_author):
 
             # Write if statement to check if there is subject facet 
             if 'subject_facet' in data['docs'][0]:
-                print("subject", data['docs'][0]['subject_facet'])
-                return data['docs'][0].get('subject', ['Unknown'])[0]
+                
+                return ','.join(data['docs'][0]['subject_facet'])
             else:
                 print("NA")
         else:
