@@ -3,9 +3,9 @@
 This file contains the links to each of our initial datasets, some of our visualizations to be uploaded, and more! In this README, you'll find the rationale behind our project and each of our visualizations.
 
 ### Files:
-- code.ipynb: this file contains all of our code we used. It's commented in an easy to understand way for anyone. 
-- kepler.gl.json: this file contains our kepler visualization. Simply download the code and go to kepler's website, press get started, and drop in the file to see it. 
-- books_with_genres_final.csv: this file has a final dataset of every book, genre, title, author, and more for all of our data. This way, anyone can simply download this dataset and put up where we left off instead of having to run our code on the files themselves. 
+- datasets: our initial four datasets without any cleaning alongside a final dataset with genres automatically added for each book for easy access.
+- kepler.gl.json: this file contains our kepler visualization. Simply download the code and go to kepler's website, press get started, and drop in the file to see it.
+- project_code.ipynb: this file contains a jupyter notebook of all of our code we used. It's commented in an easy to understand way for anyone.
 
 
 ### Introduction:
