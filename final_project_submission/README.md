@@ -1,0 +1,2 @@
+# Data Essay.
+This is our final project submission in December 2024. It has a file named data_essay.md. The file contains our final written essay for anyone to read through if they wanted to follow along with our steps and recreate our project for themselves.
