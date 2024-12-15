@@ -23,7 +23,7 @@ We visualized our data in many ways, including using word clouds, a kepler timel
 When we initially started our project, we had the PEN America datasets early on, and that was it. After our trip to the archives, we merged those datasets in. Then, when we decided we wanted to make visualizations and experiment with our dataset, we worried about the states and genres of each book. 
 
 
-**Final dataset and visualizations - Avery**
+**Final dataset and visualizations - Avery:**
 All of this marked the completion of our final dataset. It included eighteen columns, those being author, title, ban status, secondary author(s), illustrators(s), translator(s), state, district, date of challenge/removal, origin of challenge, genre, genre1, genre2, genre3, genre4, genre5, remaining genres and coordinates. Our final dataset contains 5893 rows/observations.
 
 Description of columns:
